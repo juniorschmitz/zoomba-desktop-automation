@@ -28,3 +28,4 @@ Dois mais Dois é igual a Quatro
     Wait For And Click Element        name=Dois
     Wait For And Click Element        name=Igual a
     Wait Until Element Contains       accessibility_id=CalculatorResults      4
+    
